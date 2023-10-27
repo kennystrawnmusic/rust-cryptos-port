@@ -66,6 +66,7 @@ pub use apple_base::sdk_version as current_apple_sdk_version;
 mod avr_gnu_base;
 pub use avr_gnu_base::ef_avr_arch;
 mod bpf_base;
+mod cryptos_base;
 mod dragonfly_base;
 mod freebsd_base;
 mod fuchsia_base;
