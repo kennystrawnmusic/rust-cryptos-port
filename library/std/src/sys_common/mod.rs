@@ -16,6 +16,7 @@
 
 #![allow(missing_docs)]
 #![allow(missing_debug_implementations)]
+#![allow(unexpected_cfgs)]
 
 #[cfg(test)]
 mod tests;
